@@ -19,6 +19,7 @@ With my mind setup how it will look like, time to code the basic flow. Lets jump
 ### Starting point
 I started by creating simple app in flutter, just to get a hang of widgets and basic ui layouts.
 Thats when i created my first app. It's an 'Life Counter' for popular Trading Card Game: Magic the Gathering. 
+[MTG life counter](https://github.com/Jan-Stepien/MTG-life-counter)
 
 
 After i realised how cool the Flutter is i quickly jumped into the project creating Coffee Rating App. I've done some reading and with my experience in operating on streams in **Angular** i decided that Bloc is the thing i would like to implement.
