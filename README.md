@@ -1,21 +1,22 @@
 # My Flutter Journal
 
-##### What is this? 
+### What is this? 
 Repository to organize knowledge I get regarding Flutter App development
 
-##### Baby steps - main app flow designing
+### Baby steps - main app flow designing
 
 First lets start with simple flow allowing us to use core functionality which is rate the beer! 
 Quick youtube crash course of Figma and we are right in!
 
 
 [Beer app figma project](https://www.figma.com/file/dW2sEj8mjibg5ZyoM04lgp/Beer-Team-App?node-id=0%3A1)
+
 It ain't pretty, but not gonna spend more time on it. Will ask a friend of mine who is learning UI/UX designing, but will see if he finds some time for me.
 
 With my mind setup how it will look like, time to code the basic flow. Lets jump right into it
 
 
-##### Starting point
+### Starting point
 I started by creating simple app in flutter, just to get a hang of widgets and basic ui layouts.
 Thats when i created my first app. It's an 'Life Counter' for popular Trading Card Game: Magic the Gathering. 
 
