@@ -9,6 +9,7 @@ Thats when i created my first app. It's an 'Life Counter' for popular Trading Ca
 [MTG life counter](https://github.com/Jan-Stepien/MTG-life-counter)
 
 ![alt text][gif]
+
 [gif]: https://github.com/Jan-Stepien/MTG-life-counter/blob/main/github_assets/mtg_life_coutner.gif "Mtg life counter"
 
 After i realised how cool the Flutter is i quickly jumped into the project creating Coffee Rating App. I've done some reading and with my experience in operating on streams in **Angular** i decided that Bloc is the thing i would like to implement.
@@ -18,6 +19,7 @@ So i decided to move to Beer Rating, as it will make business decisions easier (
 [App to be redesigned](https://github.com/Jan-Stepien/beer-team-scrap)
 
 ![alt text2][gif]
+
 [gif]: https://github.com/Jan-Stepien/beer-team-scrap/blob/main/github_assets/ugly_beer_app.gif "Beer Team Scrap"
 
 
