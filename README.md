@@ -41,7 +41,7 @@ Quick youtube crash course of Figma and we are right in!
 
 It ain't pretty, but not gonna spend more time on it. Will ask a friend of mine who is learning UI/UX designing, but will see if he finds some time for me.
 
-With my mind setup how it will look like, time to code the basic flow. Lets jump right into it
+With my mind setup how it will look like, time to code the basic flow. Lets jump right into it!!!
 
 
 
