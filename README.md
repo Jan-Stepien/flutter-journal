@@ -25,10 +25,10 @@ So i decided to move to Beer Rating, as it will make business decisions easier (
 
 
 In effect i got an app where i can add a drink and kept the current selection on the **Bloc** ( i knew there is a bloc package to use, but i wanted to fully control the flow to learn more ). 
-This was a moment to start using **Firebase Realtime Database**. Of all the reading i knew i can embed it pretty easly to my project so i dint have to spent more time learning node.js backend creation.
-After few days, which i spent fighting with configuration of flutter version (after i upgraded...) i setup basic flow of reading and diplaying collection , while adding new item to database.
+This was a moment to start using **Firebase Realtime Database**. Of all the reading i knew i can embed it pretty easly to my project so i didn't have to spent more time learning backend setup.
+After few days, which i spent fighting with configuration of flutter version (after i upgraded...) I setup basic flow of reading and diplaying collection , while adding new item to database.
 
-This was the moment when things got messy, i started implementing everything I found on instagram great idea boom right into project, splashscreen boom spending another day on it. Cool animations boom into project ended up in a huge mess... all the features started, project structure terrible, even naming of files got mystery... This brought me to the point where i need to write down specs and start working in organized way. So let's go.
+This was the moment when things got messy, i started implementing everything I found on instagram: great idea boom right into project, splashscreen boom spending another day on it. Cool animations boom into project ended up in a huge mess... all the features started, project structure terrible, even naming of files got messy... This brought me to the point where i need to write down specs and start working in organized way. So let's go.
 
 ### Baby steps - main app flow designing
 
