@@ -18,9 +18,10 @@ Some more reading on the Flutter forums and i realised i dont have enough proffe
 So i decided to move to Beer Rating, as it will make business decisions easier ( i love good sour or milkshake IPA ). After that i started implementing rating app. 
 [App to be redesigned](https://github.com/Jan-Stepien/beer-team-scrap)
 
-![alt text2][gif]
 
-[gif]: https://github.com/Jan-Stepien/beer-team-scrap/blob/main/github_assets/ugly_beer_app.gif "Beer Team Scrap"
+![alt text2][gif2]
+
+[gif2]: https://github.com/Jan-Stepien/beer-team-scrap/blob/main/github_assets/ugly_beer_app.gif "Beer Team Scrap"
 
 
 In effect i got an app where i can add a drink and kept the current selection on the **Bloc** ( i knew there is a bloc package to use, but i wanted to fully control the flow to learn more ). 
