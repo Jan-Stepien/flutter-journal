@@ -35,13 +35,12 @@ This was the moment when things got messy, i started implementing everything I f
 First lets start with simple flow allowing us to use core functionality which is rate the beer! 
 Quick youtube crash course of Figma and we are right in!
 
-First day, was just setup of environment, firebase and Google authentication, single button to log in with Google, and navigation to home page. Some time now to cleanup and keep the user object in user bloc. 
-
-
 [Beer app figma project](https://www.figma.com/file/dW2sEj8mjibg5ZyoM04lgp/Beer-Team-App?node-id=0%3A1)
 
-
 It ain't pretty, but not gonna spend more time on it. Will ask a friend of mine who is learning UI/UX designing, but will see if he finds some time for me.
+
+###Day1
+Just setup of environment, firebase and Google authentication, single button to log in with Google, and navigation to home page. Some time now to cleanup and keep the user object in user bloc. 
 
 
 
