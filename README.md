@@ -39,7 +39,7 @@ Quick youtube crash course of Figma and we are right in!
 
 It ain't pretty, but not gonna spend more time on it. Will ask a friend of mine who is learning UI/UX designing, but will see if he finds some time for me.
 
-###Day1
+### Day1
 Just setup of environment, firebase and Google authentication, single button to log in with Google, and navigation to home page. Some time now to cleanup and keep the user object in user bloc. 
 
 
