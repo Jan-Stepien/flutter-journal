@@ -42,11 +42,18 @@ It ain't pretty, but not gonna spend more time on it. Will ask a friend of mine 
 ### Day1
 Just setup of environment, firebase and Google authentication, single button to log in with Google, and navigation to home page. Some time now to cleanup and keep the user object in user bloc. 
 
-
-
-
 With my mind setup how it will look like, time to code the basic flow. Lets jump right into it!!!
 
+### Up2
+
+I created three new Bloc's one responsible for keeping authentication state of user for whole application and two forms blocs ( login and register ). With that i created Firebase register + login ( not email verified yet ). Thanks to that i got login/ register logic separated so i can reuse it in later projects.
+
+![login_register][login_register]
+
+[login_register]: https://github.com/Jan-Stepien/beer-team/blob/master/github_assets/register_login.gif "Register & Login"
+
+
+In between project I was preparing for recruitment process in few companies and made a quick implementation of [Master-detail screens](https://github.com/Jan-Stepien/flutter-master-detail). And as a recruitment task I wrote  an app for Tic Tac Toe game.
 
 
 
